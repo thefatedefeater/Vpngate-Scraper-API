@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Fri, 07 Jun 2024 22:46:18 GMT.
+This list was last updated on: Fri, 07 Jun 2024 22:51:39 GMT.
 
 ## Available Servers
 
@@ -33,8 +33,8 @@ Below is the list of available VPN servers:
 | artemis-luna | 202.184.4.72 | 3 | 51.75 Mbps | Malaysia | [Download 📥](./configs/server_18_MY.ovpn) |
 | vpn622567967 | 138.64.149.90 | 6 | 6.19 Mbps | Japan | [Download 📥](./configs/server_19_JP.ovpn) |
 | vpn543703650 | 92.202.213.130 | - | 9.76 Mbps | Japan | [Download 📥](./configs/server_20_JP.ovpn) |
-| 2i6 | 203.141.139.65 | 20 | 0.21 Mbps | Japan | [Download 📥](./configs/server_21_JP.ovpn) |
-| vpn330710242 | 220.89.254.193 | 25 | 8.63 Mbps | Korea Republic of | [Download 📥](./configs/server_22_KR.ovpn) |
+| vpn330710242 | 220.89.254.193 | 25 | 8.63 Mbps | Korea Republic of | [Download 📥](./configs/server_21_KR.ovpn) |
+| 2i6 | 203.141.139.65 | 20 | 0.07 Mbps | Japan | [Download 📥](./configs/server_22_JP.ovpn) |
 | vpn8765346283 | 122.208.194.99 | 4 | 1.05 Mbps | Japan | [Download 📥](./configs/server_23_JP.ovpn) |
 | vpn954032248 | 59.6.211.53 | 35 | 29.89 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
 | vpn340867092 | 1.231.153.94 | 29 | 22.80 Mbps | Korea Republic of | [Download 📥](./configs/server_25_KR.ovpn) |
