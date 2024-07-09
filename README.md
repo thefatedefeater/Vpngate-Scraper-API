@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 09 Jul 2024 18:49:58 GMT.
+This list was last updated on: Tue, 09 Jul 2024 18:55:15 GMT.
 
 ## Available Servers
 
@@ -100,15 +100,15 @@ Below is the list of available VPN servers:
 | vpn295539610 | 46.188.121.167 | 16 | 1.29 Mbps | Russian Federation | [Download 📥](./configs/server_85_RU.ovpn) |
 | vpn968914359 | 78.40.116.154 | 6 | 23.56 Mbps | Moldova Republic of | [Download 📥](./configs/server_86_MD.ovpn) |
 | vpn136630455 | 14.177.253.214 | 20 | 1.12 Mbps | Viet Nam | [Download 📥](./configs/server_87_VN.ovpn) |
-| hicorre | 116.80.73.120 | 1 | 16.56 Mbps | Japan | [Download 📥](./configs/server_88_JP.ovpn) |
-| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 41.62 Mbps | Hong Kong | [Download 📥](./configs/server_89_HK.ovpn) |
-| vpn152852888 | 153.163.90.225 | 12 | 7.66 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
-| vpn122299033 | 185.181.229.102 | 33 | 10.12 Mbps | Moldova Republic of | [Download 📥](./configs/server_91_MD.ovpn) |
-| vpn121127439 | 185.229.9.181 | 16 | 7.07 Mbps | Russian Federation | [Download 📥](./configs/server_92_RU.ovpn) |
-| vpn619416214 | 85.239.33.4 | 23 | 4.24 Mbps | Moldova Republic of | [Download 📥](./configs/server_93_MD.ovpn) |
+| vpn622233128 | 24.152.37.212 | 15 | 8.11 Mbps | Brazil | [Download 📥](./configs/server_88_BR.ovpn) |
+| hicorre | 116.80.73.120 | 1 | 16.56 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
+| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 41.62 Mbps | Hong Kong | [Download 📥](./configs/server_90_HK.ovpn) |
+| vpn152852888 | 153.163.90.225 | 12 | 7.66 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
+| vpn122299033 | 185.181.229.102 | 33 | 10.12 Mbps | Moldova Republic of | [Download 📥](./configs/server_92_MD.ovpn) |
+| vpn121127439 | 185.229.9.181 | 16 | 7.07 Mbps | Russian Federation | [Download 📥](./configs/server_93_RU.ovpn) |
 | vpn127745234 | 118.137.170.99 | 35 | 5.23 Mbps | Indonesia | [Download 📥](./configs/server_94_ID.ovpn) |
 | vpn359737578 | 113.144.184.124 | 16 | 24.85 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
-| korrepetitor | 160.251.62.107 | 1 | 16.35 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
+| vpn713104684 | 39.115.148.38 | 28 | 9.67 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
