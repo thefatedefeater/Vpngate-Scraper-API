@@ -497,15 +497,15 @@
             {
                 "hostname": "vpn805775733",
                 "ip": "211.135.236.16",
-                "score": "913135",
+                "score": "900260",
                 "ping": "29",
                 "speed": "83931102",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "48",
+                "numvpnsessions": "27",
                 "uptime": "255543948",
-                "totalusers": "98491",
-                "totaltraffic": "9516126719406",
+                "totalusers": "98419",
+                "totaltraffic": "9513815504828",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-PLH9G96's owner",
                 "message": "",
@@ -1678,5 +1678,5 @@
             "ru": "Russian Federation"
         }
     },
-    1722353827402
+    1722354132096
 ]
