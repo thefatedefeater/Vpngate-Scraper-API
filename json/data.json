@@ -1423,7 +1423,7 @@
                 "numvpnsessions": "33",
                 "uptime": "46507537",
                 "totalusers": "14937",
-                "totaltraffic": "645350344604",
+                "totaltraffic": "645377384888",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-5CT0DAB's owner",
                 "message": "",
@@ -1714,5 +1714,5 @@
             "th": "Thailand"
         }
     },
-    1728503047691
+    1728503486469
 ]
