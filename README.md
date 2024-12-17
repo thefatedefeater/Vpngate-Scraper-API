@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 17 Dec 2024 09:31:35 GMT.
+This list was last updated on: Tue, 17 Dec 2024 09:43:08 GMT.
 
 ## Available Servers
 
@@ -61,12 +61,12 @@ Below is the list of available VPN servers:
 | vpn448518852 | 133.32.153.129 | 4 | 30.35 Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) |
 | vpn289325764 | 1.235.85.227 | 31 | 8.77 Mbps | Korea Republic of | [Download 📥](./configs/server_47_KR.ovpn) |
 | vpn968712371 | 98.41.106.135 | 22 | 0.00 Mbps | United States | [Download 📥](./configs/server_48_US.ovpn) |
-| vpn631806181 | 60.113.237.218 | 6 | 50.16 Mbps | Japan | [Download 📥](./configs/server_49_JP.ovpn) |
+| vpn631806181 | 60.113.237.218 | 4 | 46.05 Mbps | Japan | [Download 📥](./configs/server_49_JP.ovpn) |
 | vpn309964051 | 118.240.75.72 | 2 | 36.73 Mbps | Japan | [Download 📥](./configs/server_50_JP.ovpn) |
 | vpn941078596 | 110.9.169.153 | 33 | 47.96 Mbps | Korea Republic of | [Download 📥](./configs/server_51_KR.ovpn) |
-| vpn830733809 | 125.186.25.171 | 45 | 27.30 Mbps | Korea Republic of | [Download 📥](./configs/server_52_KR.ovpn) |
-| vpn293400493 | 60.67.42.94 | 7 | 7.65 Mbps | Japan | [Download 📥](./configs/server_53_JP.ovpn) |
-| vpn102800483 | 124.219.214.107 | 5 | 85.49 Mbps | Japan | [Download 📥](./configs/server_54_JP.ovpn) |
+| vpn830733809 | 125.186.25.171 | 40 | 30.72 Mbps | Korea Republic of | [Download 📥](./configs/server_52_KR.ovpn) |
+| vpn102800483 | 124.219.214.107 | 8 | 80.99 Mbps | Japan | [Download 📥](./configs/server_53_JP.ovpn) |
+| vpn293400493 | 60.67.42.94 | 7 | 7.65 Mbps | Japan | [Download 📥](./configs/server_54_JP.ovpn) |
 | vpn507416836 | 58.189.16.24 | 3 | 75.75 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
 | vpn525363020 | 203.165.114.190 | 17 | 9.64 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
 | vpn428747401 | 121.133.89.71 | 31 | 31.10 Mbps | Korea Republic of | [Download 📥](./configs/server_57_KR.ovpn) |
