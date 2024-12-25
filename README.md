@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 25 Dec 2024 19:36:38 GMT.
+This list was last updated on: Wed, 25 Dec 2024 19:43:53 GMT.
 
 ## Available Servers
 
@@ -35,7 +35,7 @@ Below is the list of available VPN servers:
 | vpn919527463 | 208.58.72.144 | - | 40.03 Mbps | United States | [Download 📥](./configs/server_20_US.ovpn) |
 | vpn306600676 | 174.61.185.234 | 18 | 0.00 Mbps | United States | [Download 📥](./configs/server_21_US.ovpn) |
 | vpn586390767 | 59.133.181.86 | 5 | 24.51 Mbps | Japan | [Download 📥](./configs/server_22_JP.ovpn) |
-| vpn391201538 | 210.123.54.6 | 31 | 17.20 Mbps | Korea Republic of | [Download 📥](./configs/server_23_KR.ovpn) |
+| vpn391201538 | 210.123.54.6 | 31 | 16.24 Mbps | Korea Republic of | [Download 📥](./configs/server_23_KR.ovpn) |
 | vpn278939881 | 106.244.204.202 | 36 | 34.68 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
 | vpn194250677 | 180.9.66.180 | 4 | 23.73 Mbps | Japan | [Download 📥](./configs/server_25_JP.ovpn) |
 | opengw | 217.138.212.58 | 5 | 0.00 Mbps | Romania | [Download 📥](./configs/server_26_RO.ovpn) |
@@ -69,7 +69,7 @@ Below is the list of available VPN servers:
 | vpn539669670 | 175.123.255.141 | 29 | 47.48 Mbps | Korea Republic of | [Download 📥](./configs/server_54_KR.ovpn) |
 | vpn534857086 | 60.149.69.100 | 5 | 30.75 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
 | vpn233351518 | 95.164.177.30 | 5 | 11.96 Mbps | Greece | [Download 📥](./configs/server_56_GR.ovpn) |
-| vpn944269484 | 220.87.21.171 | 28 | 14.91 Mbps | Korea Republic of | [Download 📥](./configs/server_57_KR.ovpn) |
+| vpn944269484 | 220.87.21.171 | 28 | 19.44 Mbps | Korea Republic of | [Download 📥](./configs/server_57_KR.ovpn) |
 | vpn942059930 | 116.82.41.80 | 3 | 7.34 Mbps | Japan | [Download 📥](./configs/server_58_JP.ovpn) |
 | vpn283505669 | 183.96.128.95 | 28 | 9.61 Mbps | Korea Republic of | [Download 📥](./configs/server_59_KR.ovpn) |
 | vpn239540574 | 180.200.94.180 | 14 | 28.53 Mbps | Japan | [Download 📥](./configs/server_60_JP.ovpn) |
